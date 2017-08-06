@@ -12,7 +12,7 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
-        android:background="@drawable/home" />
+        android:background="@drawable/ic_home" />
 
     <TextView
         android:id="@+id/title_city"
